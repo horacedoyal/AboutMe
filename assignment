@@ -22,7 +22,7 @@
      
      <h1>Re: Eileen Dover University application</h1>
      <p> Dear Eileen,</p>
-     <br />
+     
      <p>Sentence about the letter</p>
      <h2>Starting Dates</h2>
      <p>Unordered list</p>
@@ -32,6 +32,16 @@
       <li>Third Semester 9 Sep 2016</li>
      </ul>
      <h2>Subjects of Study</h2>
+     <p> Another topic sentence about study topics</p>
+     <p> Another list, this time ordered</p>
+     <ol>
+      <li>Turning water to wine</li>
+      <li>Measuring Temps and Pressures</li>
+      <li>HTML and CSS</li>
+     </ol>
      <h2>Exotic Dance Moves</h2>
+     <p> Another paragraph or two about dance moves.
+      <p> Yours truly,</p>
+      <p> Dr. Eleanor Gaye,</p>
   </body>
 </html>
