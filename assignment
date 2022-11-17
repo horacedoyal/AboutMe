@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Letter Assessment</title>
+  </head>
+  <body>
+    <address>
+     Dr. Eleanor Gaye<br />
+     Awesome Science Faculty<br />
+     University of Awesome<br />
+     Bobtown, CA 99999  <br /> 
+    </address><br />
+    20 January 2006
+    <address>
+      Miss Eileen Dover<br />
+      4321 Cliff Top Edge<br />
+      Dover, CT9<br />
+      UK  <br /> 
+     </address><br /><p>This is my page</p>
+  </body>
+</html>
