@@ -12,11 +12,26 @@
      Bobtown, CA 99999  <br /> 
     </address><br />
     20 January 2006
+    <br />
     <address>
       Miss Eileen Dover<br />
       4321 Cliff Top Edge<br />
       Dover, CT9<br />
       UK  <br /> 
-     </address><br /><p>This is my page</p>
+     </address><br />
+     
+     <h1>Re: Eileen Dover University application</h1>
+     <p> Dear Eileen,</p>
+     <br />
+     <p>Sentence about the letter</p>
+     <h2>Starting Dates</h2>
+     <p>Unordered list</p>
+     <ul>
+      <li>First Semester 9 Sep 2016</li>
+      <li>Second Semester 9 Jan 2017</li>
+      <li>Third Semester 9 Sep 2016</li>
+     </ul>
+     <h2>Subjects of Study</h2>
+     <h2>Exotic Dance Moves</h2>
   </body>
 </html>
